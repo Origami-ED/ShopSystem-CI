@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/.github/" />
+  <Folder Name="/.github/workflows/">
+    <File Path="dotnet.yml" />
+  </Folder>
+  <Project Path="ShopSystem.Tests/ShopSystem.Tests.csproj" />
+  <Project Path="ShopSystem/ShopSystem.csproj" />
+</Solution>
